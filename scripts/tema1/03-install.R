@@ -15,5 +15,5 @@ magic(6)
 #en un cuadrado o matriz de forma tal que la suma de los números 
 #por columnas, filas y diagonales principales sea la misma
 
-
 installed.packages()
+
