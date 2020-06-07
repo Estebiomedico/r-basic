@@ -1,7 +1,7 @@
 #Esta línea no funciona, por ahora...
 #lm(y~x)
 
-**Ejemplo de help o ?**
+#Ejemplo de help o ?
 
 require(graphics)
 
