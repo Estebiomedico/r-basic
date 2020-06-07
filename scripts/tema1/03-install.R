@@ -11,8 +11,8 @@ library(magic)
 magic(6)
 
 #Crea un cuadrado mágico, Un cuadrado mágico es una tabla de 
-#grado primario donde se dispone de una serie de números enteros 
-#en un cuadrado o matriz de forma tal que la suma de los números 
+#grado primario donde se dispone de una serie de numeros enteros 
+#en un cuadrado o matriz de forma tal que la suma de los numeros 
 #por columnas, filas y diagonales principales sea la misma
 
 installed.packages()
