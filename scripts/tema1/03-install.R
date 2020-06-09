@@ -17,5 +17,5 @@ magic(6)
 
 installed.packages() 
 
-#Para ver todas las librerías instaladas
+#Para ver todas las librerias instaladas
 
