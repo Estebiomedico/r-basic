@@ -1,3 +1,7 @@
+library(tinytex)
+
+
+
 2*(3+5/2)
 
 2*((3+5)/2)
@@ -58,6 +62,8 @@ log(pi)
 
 log(32, 2)
 
+log(32, 2) 
+
 log(32, base = 2)
 log(base=2, 32)
 
@@ -75,9 +81,13 @@ choose(3,5)
 
 log(4^6, 4)
 
+
+
 6^log(4,6)
 
 choose(5,2)
+
+#cantidad de combinaciones
 
 sin(60*pi/180)
 
